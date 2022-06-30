@@ -1,0 +1,1 @@
+# Comparitive-study-related-to-Sars-cov-2-and-its-varient-omicron
