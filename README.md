@@ -5,4 +5,8 @@
 3) find mutation in DNA of sars and omicron.
 
 
+![sars](https://user-images.githubusercontent.com/61352425/176720831-d1d1bd52-cb23-495a-9f62-97b28e61983e.PNG)
+![saaa](https://user-images.githubusercontent.com/61352425/176720838-8c2d7911-a5c7-4a0c-ae07-ad292b784993.PNG)
+
+
 python
